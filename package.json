@@ -2,8 +2,8 @@
     "name": "microsoft-authentication-libraries-for-js",
     "private": true,
     "devDependencies": {
-        "@angular/compiler": "^15.2.4",
-        "@babel/core": "^7.7.2",
+        "@angular/compiler": "^20.3.25",
+        "@babel/core": "^7.29.6",
         "@babel/plugin-proposal-class-properties": "^7.7.0",
         "@babel/plugin-proposal-object-rest-spread": "^7.6.2",
         "@babel/preset-env": "^7.7.1",
